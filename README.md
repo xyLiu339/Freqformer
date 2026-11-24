@@ -73,7 +73,7 @@ Before running, edit the corresponding YAML file in [`config/`](config/).
 
 
 <div align=center>
-    <img src="assets/res2.png" alt="res" style="width: 100%;">
+    <img src="assets/res2.png" alt="res" style="width: 80%;">
 </div>
 
 </details>
@@ -97,17 +97,17 @@ Before running, edit the corresponding YAML file in [`config/`](config/).
 ### <a name="citation"></a>📎 Citation
 ```
 @InProceedings{liu2026freqformer,
-    title={Freqformer: Image-Demoir\'e}ing Transformer via Effective Frequency Decomposition},
+    title={Freqformer: Image-Demoir\'eing Transformer via Effective Frequency Decomposition},
     author={Liu, Xiaoyang and Qiu, Bolin and Chen, Zheng and Zhu, Libo and Zhou, Zihan and Liu, Kai and Cao, Jiezhang and Zhang, Yulun},
     booktitle={ECCV},
     year={2026},
 }
 
 @article{liu2025freqformer,
-      title={Freqformer: Image-Demoir\'eing Transformer via Efficient Frequency Decomposition}, 
-      author={Liu, Xiaoyang and Qiu, Bolin and Cao, Jiezhang and Chen, Zheng and Zhang, Yulun and Yang, Xiaokang},
-      journal={arXiv preprint arXiv:2505.19120},
-      year={2025},
+    title={Freqformer: Image-Demoir\'eing Transformer via Efficient Frequency Decomposition},
+    author={Liu, Xiaoyang and Qiu, Bolin and Cao, Jiezhang and Chen, Zheng and Zhang, Yulun and Yang, Xiaokang},
+    journal={arXiv preprint arXiv:2505.19120},
+    year={2025},
 }
 ```
 
